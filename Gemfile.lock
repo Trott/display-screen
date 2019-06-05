@@ -3,10 +3,10 @@ GEM
   specs:
     activesupport (3.0.0)
     json (1.8.0)
-    rack (1.5.2)
+    rack (1.6.11)
     rack-cache (1.2)
       rack (>= 0.4)
-    rack-protection (1.5.0)
+    rack-protection (1.5.5)
       rack
     sass (3.2.9)
     sinatra (1.4.2)
